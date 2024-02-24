@@ -1,5 +1,5 @@
 <h2>Project Name: Breezed</h2>
-<p>Clone Project</p>
+<p>The project is done to master the fundamentals of HTML, CSS, Bootstrap and Jquery by watching YouTube videos.</p>
 <p>I did not know the use of GIT and GitHub when I did the project. Long after the project was over I learned about GIT and GitHub and pushed the project to GitHub.</p>
 
 ## Contributor
